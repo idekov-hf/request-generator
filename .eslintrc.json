@@ -1,0 +1,23 @@
+{
+  "env": {
+    // I write for browser
+    // "browser": true,
+    // in CommonJS
+    "node": true
+  },
+  "extends": "google",
+  // To give you an idea how to override rule options:
+  "rules": {
+    // Tons of rules you can use, for example...
+    "quotes": [1, "single"],
+    "semi": 1,
+    "no-var": 1,
+    "prefer-const": 1,
+    "eqeqeq": 1,
+    "arrow-body-style": 1,
+    "arrow-spacing": 1,
+    "require-jsdoc": 0,
+    "padded-blocks": 0
+  },
+  "parser": "babel-eslint"
+}
