@@ -18,11 +18,11 @@ function backoffBrowser(url, numRequests, projId, timeout) {
       logmyTest();   
       console.log('Check test-details.txt for the deets of this test :) \n\n');  
       } else {
-      emitFetch(url, currentIteration);
+      letFetch(url, currentIteration);
       }
     }
 
-  function emitFetch(url, currentIteration) {
+  function letsFetch(url, currentIteration) {
     fetch(url)
     .then( response => response.json())
     .then( data => {
