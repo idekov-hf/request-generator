@@ -16,7 +16,7 @@ function backoffBrowser(url, numRequests, projId, timeout) {
   function makeRequest(url, currentIteration) {
     if (currentIteration === numRequests) {
       logmyTest();   
-      console.log('Check data-object-details.txt for the deets of this test :) \n\n');  
+      console.log('Check test-details.txt for the deets of this test :) \n\n');  
       } else {
       emitFetch(url, currentIteration);
       }
@@ -33,7 +33,7 @@ function backoffBrowser(url, numRequests, projId, timeout) {
   function logmyTest() {
     const myParse = `Test for project ${projId}  --\n  ${details} \n\n `;
 
-    fs.appendFile('data-object-details.txt', myParse, (err) => {       
+    fs.appendFile('test-details.txt', myParse, (err) => {       
             if (err) throw err;})
     }
  }
