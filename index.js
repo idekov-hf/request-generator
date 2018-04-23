@@ -18,7 +18,7 @@ function backoffBrowser(url, numRequests, projId, timeout) {
       logmyTest();   
       console.log('Check test-details.txt for the deets of this test :) \n\n');  
       } else {
-      letFetch(url, currentIteration);
+      letsFetch(url, currentIteration);
       }
     }
 
