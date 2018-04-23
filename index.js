@@ -31,9 +31,9 @@ function backoffBrowser(url, numRequests, projId, timeout) {
     }
 
   function logmyTest() {
-    const myParse = `Test for project ${projId}  --\n  ${details} \n\n `;
+    const myTestDetails = `Test for project ${projId}  --\n  ${details} \n\n `;
 
-    fs.appendFile('test-details.txt', myParse, (err) => {       
+    fs.appendFile('test-details.txt', myTestDetails, (err) => {       
             if (err) throw err;})
     }
  }
