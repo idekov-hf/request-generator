@@ -9,7 +9,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "git": "^0.1.5",
     "node-fetch": "^2.1.2",
+    "npm-doctor": "^2.0.1",
     "prompt": "^1.0.0"
   },
   "devDependencies": {},
