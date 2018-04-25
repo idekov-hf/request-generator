@@ -16,13 +16,21 @@ function backoffBrowser(url, numRequests, projId, timeout) {
   function makeRequest(url, currentIteration) {
     if (currentIteration === numRequests) {
       logmyTest();   
-      console.log('Check test-details.txt for the deets of this test :) \n\n');  
+      console.log('Check retest-details.txt for the deets of this test :) \n\n');  
       } else {
       letsFetch(url, currentIteration);
       }
     }
 
   function letsFetch(url, currentIteration) {
+    /** 
+        var images = []; 
+        this is here for streetview testing as you cannot JSON an image response
+        instead we store it by using:
+        
+        .then(response => images.push(response)) 
+
+       **/ 
     fetch(url)
     .then( response => response.json())
     .then( data => {
@@ -33,7 +41,7 @@ function backoffBrowser(url, numRequests, projId, timeout) {
   function logmyTest() {
     const myTestDetails = `Test for project ${projId}  --\n  ${details} \n\n `;
 
-    fs.appendFile('test-details.txt', myTestDetails, (err) => {       
+    fs.appendFile('retest-details.txt', myTestDetails, (err) => {       
             if (err) throw err;})
     }
  }
