@@ -1,3 +1,5 @@
 node_modules/
 retest-details.txt
 test-details.txt
+.gitignore
+.eslintrc.json
