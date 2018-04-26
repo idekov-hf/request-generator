@@ -28,12 +28,12 @@ function backoffBrowser(url, numRequests, projId, timeout) {
         this is here for streetview testing as you cannot JSON an image response
         instead we store it by using:
         
-        .then ( respone => response.json())  > .then( response => images.push(response)) 
+        .then ( response => response.json())  > .then( response => images.push(response)) 
 
        **/ 
     var images = [];
     fetch(url)
-    .then( response => images.push(response))
+    .then( response => response.json()) 
     .then( data => {
       console.log(data);
       setTimeout(() => makeRequest(url, ++currentIteration), delay);})
