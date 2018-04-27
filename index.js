@@ -33,7 +33,7 @@ function backoffBrowser(url, numRequests, projId, timeout) {
        **/ 
     var images = [];
     fetch(url)
-    .then( response => images.push(response)) 
+    .then( response => response.json()) 
     .then( data => {
       console.log(data);
       setTimeout(() => makeRequest(url, ++currentIteration), delay);})
