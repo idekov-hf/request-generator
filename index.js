@@ -5,7 +5,6 @@ const startTime = new Date().toString();
 
 function backoffBrowser(url, numRequests, projId, timeout) {
   makeRequest(url, 0);
-
   const delay = (timeout * 1000);
   const details = `URL: ${url}\n
         Start Time: ${startTime}\n
