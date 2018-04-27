@@ -16,7 +16,7 @@ function backoffBrowser(url, numRequests, projId, timeout) {
   function makeRequest(url, currentIteration) {
     if (currentIteration === numRequests) {
       logmyTest();   
-      console.log('Check 0426test-details.txt for the deets of this test :) \n\n');  
+      console.log('Check test-details.txt for the deets of this test :) \n\n');  
       } else {
       letsFetch(url, currentIteration);
       }
@@ -42,7 +42,7 @@ function backoffBrowser(url, numRequests, projId, timeout) {
   function logmyTest() {
     const myTestDetails = `Test for project ${projId}  --\n  ${details} \n\n `;
 
-    fs.appendFile('0426test-details.txt', myTestDetails, (err) => {       
+    fs.appendFile('test-details.txt', myTestDetails, (err) => {       
             if (err) throw err;})
     }
  }
