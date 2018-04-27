@@ -1,2 +1,3 @@
 node_modules/
-test-details.txt
+*.txt
+.eslintrc.json
