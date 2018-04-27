@@ -1,0 +1,289 @@
+Test for project spice-bama retest with 20 requests FindPlaceFromText   --
+  URL: https://maps.googleapis.com/maps/api/place/findplacefromtext/json?input=%2b15124732217&inputtype=phonenumber&key=AIzaSyBZ9MstWDAyRTIPn1nBOA4MxBE6hcrMLIc
+
+        Start Time: Thu Apr 26 2018 15:57:45 GMT-0500 (CDT)
+
+        Delay between requests in second(s): 0
+
+        Request(s) Made: 20
+
+        End Time: Thu Apr 26 2018 15:58:43 GMT-0500 (CDT)
+ 
+
+ Test for project spice-bama retest with 20 requests FindPlaceFromText   --
+  URL: https://maps.googleapis.com/maps/api/place/findplacefromtext/json?input=%2b15124732217&inputtype=phonenumber&key=AIzaSyBZ9MstWDAyRTIPn1nBOA4MxBE6hcrMLIc
+
+        Start Time: Thu Apr 26 2018 15:58:51 GMT-0500 (CDT)
+
+        Delay between requests in second(s): 0
+
+        Request(s) Made: 20
+
+        End Time: Thu Apr 26 2018 15:59:19 GMT-0500 (CDT)
+ 
+
+ Test for project spice-bama retest with 20 requests FindPlaceFromText   --
+  URL: https://maps.googleapis.com/maps/api/place/findplacefromtext/json?input=%2b15124732217&inputtype=phonenumber&key=AIzaSyBZ9MstWDAyRTIPn1nBOA4MxBE6hcrMLIc
+
+        Start Time: Thu Apr 26 2018 15:59:50 GMT-0500 (CDT)
+
+        Delay between requests in second(s): 0
+
+        Request(s) Made: 20
+
+        End Time: Thu Apr 26 2018 16:00:14 GMT-0500 (CDT)
+ 
+
+ Test for project spice-carli retest with 20 requests FindPlaceFromText  --
+  URL: https://maps.googleapis.com/maps/api/place/findplacefromtext/json?input=%2b15124732217&inputtype=phonenumber&key=AIzaSyAUWZZ-zssO_ugxC8lePxTbbuwbhP359Rg
+
+        Start Time: Thu Apr 26 2018 16:06:36 GMT-0500 (CDT)
+
+        Delay between requests in second(s): 0
+
+        Request(s) Made: 20
+
+        End Time: Thu Apr 26 2018 16:07:13 GMT-0500 (CDT)
+ 
+
+ Test for project spice-bama with 20 requests FindPlaceFromText   --
+  URL: https://maps.googleapis.com/maps/api/place/findplacefromtext/json?input=%2b15124732217&inputtype=phonenumber&key=AIzaSyAUWZZ-zssO_ugxC8lePxTbbuwbhP359Rg
+
+        Start Time: Thu Apr 26 2018 16:07:17 GMT-0500 (CDT)
+
+        Delay between requests in second(s): 0
+
+        Request(s) Made: 20
+
+        End Time: Thu Apr 26 2018 16:07:41 GMT-0500 (CDT)
+ 
+
+ Test for project spice-carli retest with 20 requests FindPlaceFromText   --
+  URL: https://maps.googleapis.com/maps/api/place/findplacefromtext/json?input=%2b15124732217&inputtype=phonenumber&key=AIzaSyAUWZZ-zssO_ugxC8lePxTbbuwbhP359Rg
+
+        Start Time: Thu Apr 26 2018 16:07:45 GMT-0500 (CDT)
+
+        Delay between requests in second(s): 0
+
+        Request(s) Made: 20
+
+        End Time: Thu Apr 26 2018 16:08:16 GMT-0500 (CDT)
+ 
+
+ Test for project spice-alaska retest with 30 requests NearBySearch  --
+  URL: https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=-33.8670522,151.1957362&type=restaurant&keyword=cruise&key=AIzaSyBlbtKLxHefYlvz4KH40coYktvGPc-UCrs&opennow&rankby=distance
+
+        Start Time: Thu Apr 26 2018 16:11:23 GMT-0500 (CDT)
+
+        Delay between requests in second(s): 0
+
+        Request(s) Made: 30
+
+        End Time: Thu Apr 26 2018 16:12:05 GMT-0500 (CDT)
+ 
+
+ Test for project spice-alaska 30 requests NearBySearch   --
+  URL: https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=-33.8670522,151.1957362&type=restaurant&keyword=cruise&key=AIzaSyBlbtKLxHefYlvz4KH40coYktvGPc-UCrs&opennow&rankby=distance
+
+        Start Time: Thu Apr 26 2018 16:12:17 GMT-0500 (CDT)
+
+        Delay between requests in second(s): 0
+
+        Request(s) Made: 30
+
+        End Time: Thu Apr 26 2018 16:12:46 GMT-0500 (CDT)
+ 
+
+ Test for project spice-alaska with 30 requests NearBySearch  --
+  URL: https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=-33.8670522,151.1957362&type=restaurant&keyword=cruise&key=AIzaSyBlbtKLxHefYlvz4KH40coYktvGPc-UCrs&opennow&rankby=distance
+
+        Start Time: Thu Apr 26 2018 16:12:53 GMT-0500 (CDT)
+
+        Delay between requests in second(s): 0
+
+        Request(s) Made: 30
+
+        End Time: Thu Apr 26 2018 16:13:11 GMT-0500 (CDT)
+ 
+
+ Test for project spice-echo with 20 requests Directions   --
+  URL: https://maps.googleapis.com/maps/api/directions/json?origin=Toronto&destination=Montreal&key=AIzaSyClQHbdINj_ytjiPDldqTMSFDfkuv7To9s
+
+        Start Time: Thu Apr 26 2018 16:15:27 GMT-0500 (CDT)
+
+        Delay between requests in second(s): 0
+
+        Request(s) Made: 20
+
+        End Time: Thu Apr 26 2018 16:16:13 GMT-0500 (CDT)
+ 
+
+ Test for project spice-echo with 20 requests Directions   --
+  URL: https://maps.googleapis.com/maps/api/directions/json?origin=Toronto&destination=Montreal&key=AIzaSyClQHbdINj_ytjiPDldqTMSFDfkuv7To9s
+
+        Start Time: Thu Apr 26 2018 16:16:22 GMT-0500 (CDT)
+
+        Delay between requests in second(s): 0
+
+        Request(s) Made: 20
+
+        End Time: Thu Apr 26 2018 16:16:51 GMT-0500 (CDT)
+ 
+
+ Test for project spice-echo with 20 requests Directions   --
+  URL: https://maps.googleapis.com/maps/api/directions/json?origin=Toronto&destination=Montreal&key=AIzaSyClQHbdINj_ytjiPDldqTMSFDfkuv7To9s
+
+        Start Time: Thu Apr 26 2018 16:16:59 GMT-0500 (CDT)
+
+        Delay between requests in second(s): 0
+
+        Request(s) Made: 20
+
+        End Time: Thu Apr 26 2018 16:17:14 GMT-0500 (CDT)
+ 
+
+ Test for project spice-echo with 30 requests Elevation   --
+  URL: https://maps.googleapis.com/maps/api/elevation/json?locations=39.7391536,-104.9847034&key=AIzaSyClQHbdINj_ytjiPDldqTMSFDfkuv7To9s
+
+        Start Time: Thu Apr 26 2018 16:20:49 GMT-0500 (CDT)
+
+        Delay between requests in second(s): 0
+
+        Request(s) Made: 30
+
+        End Time: Thu Apr 26 2018 16:21:48 GMT-0500 (CDT)
+ 
+
+ Test for project spice-echo with 30 requests Elevation   --
+  URL: https://maps.googleapis.com/maps/api/elevation/json?locations=39.7391536,-104.9847034&key=AIzaSyClQHbdINj_ytjiPDldqTMSFDfkuv7To9s
+
+        Start Time: Thu Apr 26 2018 16:22:40 GMT-0500 (CDT)
+
+        Delay between requests in second(s): 0
+
+        Request(s) Made: 30
+
+        End Time: Thu Apr 26 2018 16:23:09 GMT-0500 (CDT)
+ 
+
+ Test for project spice-echo with 30 requests Elevation   --
+  URL: https://maps.googleapis.com/maps/api/elevation/json?locations=39.7391536,-104.9847034&key=AIzaSyClQHbdINj_ytjiPDldqTMSFDfkuv7To9s
+
+        Start Time: Thu Apr 26 2018 16:23:17 GMT-0500 (CDT)
+
+        Delay between requests in second(s): 0
+
+        Request(s) Made: 30
+
+        End Time: Thu Apr 26 2018 16:23:34 GMT-0500 (CDT)
+ 
+
+ Test for project spice-ghost with 40 requests Ghost Tracker 1 Directions   --
+  URL:  https://maps.googleapis.com/maps/api/directions/json?origin=Toronto&destination=Montreal&key=AIzaSyCgN1TIKpTW8Yt-0vq9qzogOq6FWJcxa1w
+
+        Start Time: Thu Apr 26 2018 16:30:19 GMT-0500 (CDT)
+
+        Delay between requests in second(s): 0
+
+        Request(s) Made: 40
+
+        End Time: Thu Apr 26 2018 16:30:46 GMT-0500 (CDT)
+ 
+
+ Test for project spice-ghost with 40 requests Ghost Tracker 1 Directions  --
+  URL:  https://maps.googleapis.com/maps/api/directions/json?origin=Toronto&destination=Montreal&key=AIzaSyCgN1TIKpTW8Yt-0vq9qzogOq6FWJcxa1w
+
+        Start Time: Thu Apr 26 2018 16:31:23 GMT-0500 (CDT)
+
+        Delay between requests in second(s): 0
+
+        Request(s) Made: 40
+
+        End Time: Thu Apr 26 2018 16:31:48 GMT-0500 (CDT)
+ 
+
+ Test for project spice-ghost with 40 requests Ghost Tracker 1 Directions   --
+  URL:  https://maps.googleapis.com/maps/api/directions/json?origin=Toronto&destination=Montreal&key=AIzaSyCgN1TIKpTW8Yt-0vq9qzogOq6FWJcxa1w
+
+        Start Time: Thu Apr 26 2018 16:32:05 GMT-0500 (CDT)
+
+        Delay between requests in second(s): 0
+
+        Request(s) Made: 40
+
+        End Time: Thu Apr 26 2018 16:32:29 GMT-0500 (CDT)
+ 
+
+ Test for project spice-ghost 30 requests Elevation Ghost Tracker 2  --
+  URL: https://maps.googleapis.com/maps/api/elevation/json?locations=39.7391536,-104.9847034&key=AIzaSyDLoKxXW8Ifl2kKa9g9hzH7sgPATvixePU
+
+        Start Time: Thu Apr 26 2018 16:34:39 GMT-0500 (CDT)
+
+        Delay between requests in second(s): 0
+
+        Request(s) Made: 30
+
+        End Time: Thu Apr 26 2018 16:36:01 GMT-0500 (CDT)
+ 
+
+ Test for project spice-ghost 30 requests Elevation Ghost Tracker 2  --
+  URL: https://maps.googleapis.com/maps/api/elevation/json?locations=39.7391536,-104.9847034&key=AIzaSyDLoKxXW8Ifl2kKa9g9hzH7sgPATvixePU
+
+        Start Time: Thu Apr 26 2018 16:36:19 GMT-0500 (CDT)
+
+        Delay between requests in second(s): 0
+
+        Request(s) Made: 30
+
+        End Time: Thu Apr 26 2018 16:36:55 GMT-0500 (CDT)
+ 
+
+ Test for project spice-ghost 30 requests Elevation Ghost Tracker 2  --
+  URL: https://maps.googleapis.com/maps/api/elevation/json?locations=39.7391536,-104.9847034&key=AIzaSyDLoKxXW8Ifl2kKa9g9hzH7sgPATvixePU
+
+        Start Time: Thu Apr 26 2018 16:37:10 GMT-0500 (CDT)
+
+        Delay between requests in second(s): 0
+
+        Request(s) Made: 30
+
+        End Time: Thu Apr 26 2018 16:37:57 GMT-0500 (CDT)
+ 
+
+ Test for project spice-ghost with 50 requests StreetView Ghost Tracker 3  --
+  URL: https://maps.googleapis.com/maps/api/streetview?size=600x300&location=46.414382,10.013988&heading=151.78&pitch=-0.76&key=AIzaSyAs1VukcE9O2zlz9NTLozDsHrpL4C-hm7c
+
+        Start Time: Thu Apr 26 2018 16:49:28 GMT-0500 (CDT)
+
+        Delay between requests in second(s): 0
+
+        Request(s) Made: 50
+
+        End Time: Thu Apr 26 2018 16:49:52 GMT-0500 (CDT)
+ 
+
+ Test for project spice-ghost with 50 requests StreetView Ghost Tracker 3  --
+  URL: https://maps.googleapis.com/maps/api/streetview?size=600x300&location=46.414382,10.013988&heading=151.78&pitch=-0.76&key=AIzaSyAs1VukcE9O2zlz9NTLozDsHrpL4C-hm7c
+
+        Start Time: Thu Apr 26 2018 16:50:02 GMT-0500 (CDT)
+
+        Delay between requests in second(s): 0
+
+        Request(s) Made: 50
+
+        End Time: Thu Apr 26 2018 16:50:26 GMT-0500 (CDT)
+ 
+
+ Test for project spice-ghost with 50 requests StreetView Ghost Tracker 3  --
+  URL: https://maps.googleapis.com/maps/api/streetview?size=600x300&location=46.414382,10.013988&heading=151.78&pitch=-0.76&key=AIzaSyAs1VukcE9O2zlz9NTLozDsHrpL4C-hm7c
+
+        Start Time: Thu Apr 26 2018 16:50:56 GMT-0500 (CDT)
+
+        Delay between requests in second(s): 0
+
+        Request(s) Made: 50
+
+        End Time: Thu Apr 26 2018 16:51:25 GMT-0500 (CDT)
+ 
+
+ 

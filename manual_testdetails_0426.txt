@@ -1,0 +1,45 @@
+spice-bama manual retest with 10 requests FindPlaceFromText
+
+ https://maps.googleapis.com/maps/api/place/findplacefromtext/json?input=%2b15124732217&inputtype=phonenumber&key=AIzaSyBZ9MstWDAyRTIPn1nBOA4MxBE6hcrMLIc
+
+
+
+spice-carli manual retest with 10 requests FindPlaceFromText
+
+https://maps.googleapis.com/maps/api/place/findplacefromtext/json?input=%2b15124732217&inputtype=phonenumber&key=AIzaSyAUWZZ-zssO_ugxC8lePxTbbuwbhP359Rg
+
+
+
+spice-alaska manual retest with 10 requests NearBySearch
+
+https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=-33.8670522,151.1957362&type=restaurant&keyword=cruise&key=AIzaSyBlbtKLxHefYlvz4KH40coYktvGPc-UCrs&opennow&rankby=distance
+
+
+
+spice-echo manual retest with 10 requests Directions
+
+https://maps.googleapis.com/maps/api/directions/json?origin=Toronto&destination=Montreal&key=AIzaSyClQHbdINj_ytjiPDldqTMSFDfkuv7To9s
+
+
+
+spice-echo manual retest  with 10 requests Elevation 
+
+https://maps.googleapis.com/maps/api/elevation/json?locations=39.7391536,-104.9847034&key=AIzaSyClQHbdINj_ytjiPDldqTMSFDfkuv7To9s
+
+
+
+ spice-ghost manual retest with 10 requests Directions with APIKey: Ghost Tracker 1
+
+ https://maps.googleapis.com/maps/api/directions/json?origin=Toronto&destination=Montreal&key=AIzaSyCgN1TIKpTW8Yt-0vq9qzogOq6FWJcxa1w
+
+
+
+ spice-ghost manual retest with 10 requests Elevation with APIKey: host Tracker 2
+
+ https://maps.googleapis.com/maps/api/elevation/json?locations=39.7391536,-104.9847034&key=AIzaSyDLoKxXW8Ifl2kKa9g9hzH7sgPATvixePU
+
+
+
+ spice-ghost manual retest with 10 requests StreetView with APIKey: Ghost Tracker 3
+
+ https://maps.googleapis.com/maps/api/streetview?size=600x300&location=46.414382,10.013988&heading=151.78&pitch=-0.76&key=AIzaSyAs1VukcE9O2zlz9NTLozDsHrpL4C-hm7c
